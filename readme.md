@@ -1,4 +1,4 @@
-# Quick and Dirt PHP Email Generator
+# Quick and Dirty PHP Email Generator
 
 **tl;dr:** Quickly generate multiple emails that you can send from your favorite mail client using mailto links and parsing data from various text files. (email addresses, email template, and optional redemption codes)
 
@@ -35,6 +35,3 @@ You can now click through the list and start firing off emails like you’re you
 Thanks for checking it out.
 
 @davely
-
-
-
